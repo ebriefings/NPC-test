@@ -1,50 +1,11 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>Next Policy Challenge by Next-Policy-Challenge</title>
-  </head>
+In response to the December 2011 White House - Startup America Policy Challenge, sixteen partner institutions designed and executed The Policy Challenge, a national administrative policy proposal competition. 
 
-  <body>
-    <div id="container">
-      <div class="inner">
+Running from January 30 to May 21, 2012, the Policy Challenge asked public administration students, faculty, practitioners and the general public to build on the results of the Startup America Policy Challenge to propose innovative, viable, and actionable plans for administrative change in education, clean energy, and healthcare. 
 
-        <header>
-          <h1>Next Policy Challenge</h1>
-          <h2>Next Policy Challenge</h2>
-        </header>
+Continuing participation was scaffolded across two proposal stages of competition, culminating in a finale event. 
 
-        <section id="downloads" class="clearfix">
-          <a href="https://github.com/Next-Policy-Challenge/npc.github.io/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
-          <a href="https://github.com/Next-Policy-Challenge/npc.github.io/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-          <a href="https://github.com/Next-Policy-Challenge/npc.github.io" id="view-on-github" class="button"><span>View on GitHub</span></a>
-        </section>
+A short-form proposal stage ran from January 30 to April 2 and was “open to the American public”. Individuals and small teams were invited to submit a two-page short-form proposal, addressing the challenge of using new technologies in the administration of education, clean energy, and healthcare. A judging panel selected three finalist teams in each of the three issue areas, with those teams invited to participate in the next stage.
 
-        <hr>
+In the long-form proposal stage, running from April 17 to May 11, each of the nine finalist teams were asked to develop a 15-page long-form proposal that elaborated on their initial idea in consultation with content experts.
 
-        <section id="main_content">
-          <p>The ASU School of Public Affairs is leading the development of The Next Policy Challenge, a follow-up to the 2011-2012 Policy Challenge. The Next Policy Challenge is a policy foresight exercise, focussed on the policy challenges that may face the United States over the coming decade as economic transformation, technological advancement, environmental change and social adaptation come together in powerful new ways. What will be the pressing, complex policy challenges facing us in the 2020s, what changes to our governance arrangements will such challenges require, what new inter-agency collaborations will be necessary and how can we start preparing now to be resilient in the face of unknown challenges in the future? </p>
-
-<p>Where the Next Policy Challenge differs from traditional expert-led policy foresight exercises is in its focus on the latent power of collective intelligence to consider this problem of how to prepare for an uncertain future using open ideation and collaboration. A first stage open ideation process will use the IdeaScale platform to have the crowd propose and rank a top ten list of emerging, complex public policy challenges currently flying below the radar. Subsequent stages will test the hypothesis proposed by the noted social media researcher Clay Shirky that the next great frontier in open source collaboration lies in platforms such as GitHub that were originally designed to facilitate open source software development. Using the GitHub platform, teams and individuals will develop the stage one list of ten policy challenges into more fully-developed statements of those problems and robust, sophisticated policy proposals for building a resilient policy response apparatus. </p>
-
-<p>The Next Policy Challenge is also designed as a test of the emerging ideas that have been advanced in the open governance domain. Are crowds truly wise, under what conditions and for what purposes is crowdsourcing an effective process for policy analysis and development, and does crowdsourcing exceed the insights and outputs from expert-led processes? What unintended consequences emerge in open ideation processes, especially in light of the differing motives and agendas that participants bring to the process? What characteristics of open collaboration systems function to bring together dispersed groups? Does the presence of some reward - albeit non-monetary, recognition based, or implicit - challenge the very nature of open collaboration? Through a combination of data collected through the IdeaScale and GitHub platforms, and through surveys and interviews with participants, the Next Policy Challenge is design as much as an experiment testing the rhetoric of open governance as it is a policy foresight competition.</p>
-        </section>
-
-        <footer>
-          Next Policy Challenge is maintained by <a href="https://github.com/Next-Policy-Challenge">Next-Policy-Challenge</a><br>
-          This page was generated by <a href="http://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
-        </footer>
-
-        
-      </div>
-    </div>
-  </body>
-</html>
+The competition culminated in The Policy Challenge Finale on May 21 2012, where the finalist teams presented their proposals to high-level representatives of the federal agencies and a panel of expert judges. The winning team in each issue area were announced at the finale and their proposals were shared with the Cabinet Secretary from the relevant federal agency. A subsequent NSF-funded workshop reflecting on “Participatory Challenge Platforms with a Public Intent” was held the next day. Full reports on The Policy Challenge and the Workshop are available online. 
