@@ -15,5 +15,3 @@ What unintended consequences emerge in open ideation processes, especially in li
 What characteristics of open collaboration systems function to bring together dispersed groups? 
 Does the presence of some reward - albeit non-monetary, recognition based, or implicit - challenge the very nature of open collaboration? 
 Through a combination of data collected through the IdeaScale and GitHub platforms, and through surveys and interviews with participants, the Next Policy Challenge is design as much as an experiment testing the rhetoric of open governance as it is a policy foresight competition.
-
-The Next Policy Challenge will change the world. 
